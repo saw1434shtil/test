@@ -12,7 +12,7 @@ LICENSE: [MIT](./license.md)
 1. ### [Установка](./Установка.md) git
 
 * [Настройка](./настройка.md) <strong>git</strong>
-* Создание <strong>репозитория</strong>
+* [Создание](./Создание.md) <strong>репозитория</strong>
 
 2. ### [git add](./add.md) и другие команды
 
